@@ -1,0 +1,11 @@
+main: com.exedump.ShowOPChat.Main
+name: ShowOPChat
+version: 1.0
+author: Mew_
+description: Show chat from the OP's.
+commands:
+  showopchat:
+    description: Show chat from the OP's.
+    usage: /showopchat
+    permission: showopchat.show
+    permission-message: You don't have the ShowOPChat permission.
